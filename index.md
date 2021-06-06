@@ -39,7 +39,7 @@ Lbl++ allow to use some keywords, marked by ```:foo:```.
 * ```:lsh: /arg1/ /arg2/``` : return ```arg1```<<```arg2```
 * ```:rsh: /arg1/ /arg2/``` : return ```arg1```>>```arg2```
 * ```:and: /arg1/ /arg2/``` : return ```arg1```&```arg2```
-* ```:or: /arg1/ /arg2/```  : return ```arg1```|```arg2```
+* ```:or: /arg1/ /arg2/```  : return ```arg1```\|```arg2```
 * ```:xor: /arg1/ /arg2/``` : return ```arg1```^```arg2```
 * ```:not: /arg1/```        : return !```arg1```
 
