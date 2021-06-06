@@ -61,4 +61,4 @@ Lbl++ allow to use some keywords, marked by ```:foo:```.
 
 ## Comments
 
-Every thing that is not between ```()``` ; ```""``` ; ```::``` ; ```//``` or containt ```[``` ; ```]``` or ```;``` will be considered as a comment. 
+Every thing that is not between ```()``` ; ```""``` ; ```::``` ; ```//``` or contain ```[``` ; ```]``` or ```;``` will be considered as a comment. 
