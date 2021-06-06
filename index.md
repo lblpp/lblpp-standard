@@ -1,4 +1,4 @@
-# LBL++ standard
+# LBL++ standard (v.0.1)
 
 *Lbl++ is mailny inspired by C, ASM and [LBL](https://github.com/MrGargoyle134/lbl)*
 
@@ -19,7 +19,7 @@ Blocks are delimited with  ```[``` and ```]```.
 Variables are marked like that by```/foo/```
 
 You can define a new variable with the ```string``` and ```int``` keywords (see 
-[keywords section](###-variables-définition-)).
+[keywords section](#-variables-définition-)).
 
 ## Keywords
 
