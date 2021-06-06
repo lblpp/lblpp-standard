@@ -19,7 +19,7 @@ Blocks are delimited with  ```[``` and ```]```.
 Variables are marked like that by```/foo/```
 
 You can define a new variable with the ```string``` and ```int``` keywords (see 
-[keywords section](###variables_def)).
+[keywords section](####-variables-définition-)).
 
 ## Keywords
 
