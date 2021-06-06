@@ -19,7 +19,7 @@ Blocks are delimited with  ```[``` and ```]```.
 Variables are marked like that by```/foo/```
 
 You can define a new variable with the ```string``` and ```int``` keywords (see 
-[keywords section](## Keywords).
+[keywords section](###variables_def)).
 
 ## Keywords
 
@@ -55,7 +55,7 @@ Lbl++ allow to use some keywords, marked by ```:foo:```.
 * ```:if: /cond/ [code]```    : ```code``` is executed only if ```cond```=1
 * ```:while: /cond/ [code]``` : ```code``` is repeted as long as ```cond```=1
 
-### Variables définition :
+### <a name=variables_def></a> Variables définition :
 * ```:int: /name/```    : create a ```int``` variable with the name ```name```
 * ```:string: /name/``` : create a ```string``` variable with the name ```name```
 
