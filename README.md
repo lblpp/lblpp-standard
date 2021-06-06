@@ -1,2 +1,2 @@
-# lblpp-standard
-The definition of lblpp standard
+# lbl++ standard
+The definition of lbl++ language standard
