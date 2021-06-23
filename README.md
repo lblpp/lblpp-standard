@@ -1,2 +1,2 @@
-# lbl++ standard
-The definition of lbl++ language standard
+# Sprache standard
+The definition of Sprache language standard

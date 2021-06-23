@@ -1,4 +1,4 @@
-*Lbl++ is mailny inspired by C, ASM and [LBL](https://github.com/MrGargoyle134/lbl)*
+*Sprache is mailny inspired by C, ASM and [LBL](https://github.com/MrGargoyle134/lbl)*
 
 ## Constants
 * string are marked by ```"``` 
@@ -21,7 +21,7 @@ You can define a new variable with the ```string``` and ```int``` keywords (see
 
 ## Keywords
 
-Lbl++ allow to use some keywords, marked by ```:foo:```. 
+Sprache allow to use some keywords, marked by ```:foo:```. 
 
 ### Set/ret :
 * ```:set: /arg1/ /arg2/``` : set ```arg1``` to ```arg2```
